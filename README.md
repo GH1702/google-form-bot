@@ -1,1 +1,2 @@
 # google-form-bot
+🛠 Available ScriptsYou can run each bot variant using the following commands in your terminal:Script NamePurposeCommandStandard BotThe primary form filler.node fillForm.jsBias BotFills forms with specific weighted or biased answers.node fillForm_Bias.jsMissing Data BotTests form behavior when some fields are skipped.node fillForm_Missing.jsNegative BotInputs negative or "out-of-bounds" data for stress testing.node fillForm_Negative.js
